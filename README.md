@@ -1,4 +1,4 @@
-# Angular Extended
+# Epicodus Reflections
 
 #### Epicodus JavaScript Week 4 Project, September 29, 2017
 
