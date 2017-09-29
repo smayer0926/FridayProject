@@ -21,18 +21,6 @@ _Further Extend learning, by editing current projects and improving readmes/code
 
 
 
-
-
-
-
-
-## Specifications
-
-
-
-## Future Exploration
-
-
 ## Questions or Concerns
 _If there are any questions or concerns, please contact me at smayer0926@gmail.com_
 
