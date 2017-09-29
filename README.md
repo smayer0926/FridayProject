@@ -36,7 +36,7 @@ _Further Extend learning on topics of interest including, updating Readme's, pra
   * [More Technical Interview Questions](https://www.javatpoint.com/corejava-interview-questions)
   * [Even More Questions](http://www.buggybread.com/2015/06/java-interview-questions-and-answers.html)
 * Attached a document file that has some questions answered that were given to me by a recruiter of example questions.
-  ![Technical Question Examples](extra-Stuff/Technical-Questions.docx)
+  * ![Technical Question Examples](extra-Stuff/Technical-Questions.docx)
 ## What I still need to do
 * Watch more videos/practice more Java.
 * Study more technical interview questions.
