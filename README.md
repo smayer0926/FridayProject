@@ -5,7 +5,6 @@
 #### By Stephanie Mayer
 
 ## Table Of Contents
-======================
 * [Description](#description)
 * [Specifications](#specifications)
 * [Future Exploration](#future-exploration)
@@ -13,13 +12,14 @@
 * [Technologies Used](#technologies-used)
 
 
-
-
-
-
 ## Description
-
 _Further Extend learning, by editing current projects and improving readmes/code._
+
+
+## What I did today
+* Edit Current Projects to improve Readme/Code
+
+
 
 
 
