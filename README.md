@@ -18,6 +18,9 @@ _Further Extend learning on topics of interest including, updating Readme's, pra
 
 
 ## Accomplishments of Today
+### Goals:
+  _The goal for today was to explore options for prepping for interviews. I feel like I am pretty good at working on independent projects, so creating a new project didn't seem like time well spent. Instead, I decided I should update some README's to add a table of contents to make them a little nicer, after the meetup last night. I also wanted to go through a lot of technical interview questions to be prepared for what may come at me. We didn't spend much time in Java prepping for questions that may have come our way in terms of Java. There are some great links below that had some very informative questions and answers. I also practiced some white boarding questions on Hack Reactor and watched some videos on more Java including looking at different types of databases, such as Oracle._
+
 * Edit Current Projects to improve Readme/Code:
   * [Doctor API Project](https://github.com/smayer0926/doctorLookup)
   * [Zoo Project](https://github.com/smayer0926/Zoo)
@@ -27,6 +30,7 @@ _Further Extend learning on topics of interest including, updating Readme's, pra
 
 ![HackReactor Progress](images/capture2.PNG)
 * Register to go to UO Alumni Networking Event on October 10th at 5:30.
+  * [UO Networking](http://www.uoalumni.com/s/1540/uoaa/index.aspx?sid=1540&gid=3&pgid=7385&cid=16925&ecid=16925&crid=0&calpgid=587&calcid=2644)
 * Read through example questions from a technical interview:
   * [Technical Interview Questions](http://www.java2novice.com/java-interview-questions/)
   * [More Technical Interview Questions](https://www.javatpoint.com/corejava-interview-questions)
@@ -44,14 +48,13 @@ _Further Extend learning on topics of interest including, updating Readme's, pra
 ### Non-technical
 * Non-technical issues that I need to work further on would be getting more LinkedIn connections and working on cover letters. Otherwise, I feel pretty ready to continue the search for a job.
 
-
 ## Questions or Concerns
 _If there are any questions or concerns, please contact me at smayer0926@gmail.com_
 
 
 ## Technologies Used
 * _Atom_
-* _Git Bash_
+* _Git-Bash_
 * _Hack Reactor_
 
 
