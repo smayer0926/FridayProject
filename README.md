@@ -22,7 +22,7 @@ _Further Extend learning on topics of interest including, updating Readme's, pra
 * Watch videos on Java methods and databases from Udemy.
 ![Java Progress](images/Capture.PNG)
 * Practice on Hack Reactor
-* Read through example questions from a technical interview [!Technical Questions](#http://www.java2novice.com/java-interview-questions/)
+* Read through example questions from a technical interview [Technical Questions](http://www.java2novice.com/java-interview-questions/)
 
 ## What I still need to do
 * Watch more videos/practice more Java.
