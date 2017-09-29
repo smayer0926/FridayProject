@@ -20,6 +20,7 @@ _Further Extend learning, by editing current projects and improving readmes/code
 * Edit Current Projects to improve Readme/Code
 * Watch videos on Java methods and databases from Udemy.
 ![Looking up results](images/Capture.png)
+* Practice on Hack Reactor
 
 
 ## Questions or Concerns
