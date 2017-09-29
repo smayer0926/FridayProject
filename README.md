@@ -16,12 +16,14 @@
 _Further Extend learning, by editing current projects and improving readmes/code._
 
 
-## What I did today
+## Accomplishments of Today
 * Edit Current Projects to improve Readme/Code
 * Watch videos on Java methods and databases from Udemy.
 ![Java Progress](images/Capture.PNG)
 * Practice on Hack Reactor
 
+## What I still need to do
+* Watch more videos/practice more Java. 
 
 ## Questions or Concerns
 _If there are any questions or concerns, please contact me at smayer0926@gmail.com_
