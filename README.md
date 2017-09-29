@@ -18,7 +18,9 @@ _Further Extend learning on topics of interest including, updating Readme's, pra
 
 
 ## Accomplishments of Today
-* Edit Current Projects to improve Readme/Code
+* Edit Current Projects to improve Readme/Code:
+  * [Doctor API Project](https://github.com/smayer0926/doctorLookup)
+  * [Zoo Project] (https://github.com/smayer0926/Zoo)
 * Watch videos on Java methods and databases from Udemy.
 ![Java Progress](images/Capture.PNG)
 * Practice on Hack Reactor
