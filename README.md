@@ -23,7 +23,10 @@ _Further Extend learning, by editing current projects and improving readmes/code
 * Practice on Hack Reactor
 
 ## What I still need to do
-* Watch more videos/practice more Java. 
+* Watch more videos/practice more Java.
+
+## What to do before starting a job
+* I'd like to work more on technical questions related to different languages, specifically Java. We barely scratched the surface of the information that is out there and it would be nice to learn some more stuff.
 
 ## Questions or Concerns
 _If there are any questions or concerns, please contact me at smayer0926@gmail.com_
