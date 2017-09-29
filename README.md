@@ -19,7 +19,7 @@
 
 ## Description
 
-_Further Extend learning, by editing current projects and improving readmes/code, walking through technical questions on hackReactor and brushing up on java skills._
+_Further Extend learning, by editing current projects and improving readmes/code._
 
 
 
