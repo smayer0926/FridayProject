@@ -18,7 +18,8 @@ _Further Extend learning, by editing current projects and improving readmes/code
 
 ## What I did today
 * Edit Current Projects to improve Readme/Code
-
+* Watch videos on Java methods and databases from Udemy.
+![Looking up results](images/capture.png)
 
 
 ## Questions or Concerns
